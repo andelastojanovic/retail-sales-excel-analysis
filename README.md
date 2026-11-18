@@ -146,4 +146,4 @@ Workbook, analysis and README: MIT License. Dataset: CC0 (public domain), see [D
 **Andela Stojanovic**: Industrial/Management Engineering student, aiming at junior data and business analyst roles in logistics, supply chain and retail.
 [LinkedIn](https://www.linkedin.com/in/andela-stojanovic)
 
-Related project: delivery delay analysis with SQL and Power BI (link to add).
+Related project: delivery delay analysis with SQL and Power BI (https://www.kaggle.com/datasets/himanshuuike/superstore-sales-dataset).
